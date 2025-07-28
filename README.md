@@ -184,7 +184,7 @@ DEALINGS IN THE SOFTWARE.
 ## Credits
 
 Lilica uses:
-- Dear ImGui (https://github.com/ocornut/imgui)
+- [Dear ImGui](https://github.com/ocornut/imgui)
 - Lua
 - GLFW
 - OpenGL
