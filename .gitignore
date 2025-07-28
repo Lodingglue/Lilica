@@ -1,0 +1,11 @@
+.idea/
+cmake-build-debug/
+build/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.log
+*.tmp
+*.pyc
